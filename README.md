@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ## Author
 **Your Name Here**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [FKhan14](https://github.com/YOUR_USERNAME)
 
 ## Acknowledgments
 - Dataset: Matt Dabbert's [Ultimate UFC Dataset](https://www.kaggle.com/datasets/mdabbert/ultimate-ufc-dataset)
